@@ -1,2 +1,2 @@
 test in dev branch
-quich and simple
+creating a new branch is quich and simple
