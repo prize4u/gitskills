@@ -1,4 +1,5 @@
-master  changes
 master change 1, change 2
 test in f1 branch
 f1 changes
+test in f1 branch c2
+f1 changes c2
