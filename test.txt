@@ -1,2 +1,3 @@
 test in dev branch
 master  changes
+master change 1
